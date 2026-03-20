@@ -59,7 +59,7 @@ It provides insights into revenue, customer behavior, and product performance.
 
 ## 💼 Author
 
-**Shiva Sai**
+**Shiva Munugoti **
 Aspiring Data Analyst | Power BI | SQL | Excel
 
 ---
